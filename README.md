@@ -17,7 +17,7 @@ This is a beginner-level C# console project designed to calculate the average of
 ## Technologies Used
 
 - Programming Language: C#
-- IDE: Visual Studio 2019 / 2022
+- IDE: Visual Studio 2022
 - Project Type: Console Application
 
 ## Project Structure
